@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Sergio Lozano (SergioLz)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=wave&color=auto&height=300&section=header&text=Full%20Stack%20Developer&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/render?type=wave&color=333333&height=300&section=header&text=AI%20Solutions%20%26%20Applications%20Expert&fontSize=60&fontAlignY=40&animation=twinkling" />
 </p>
 
 <p align="center">
   <a href="https://github.com/SergioLz">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Building+modern+web+solutions;AI+%26+Automation+Expert;Full+Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Building+modern+web+solutions;AI+Solutions+%26+Applications+Expert;AI+%26+Automation+Architect" alt="Typing SVG" />
   </a>
 </p>
 
@@ -39,15 +39,15 @@
 
 <p align="center">
   <a href="https://github.com/SergioLz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SergioLz&show_icons=true&theme=dark&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SergioLz&show_icons=true&theme=tokyonight&count_private=true" />
   </a>
   <a href="https://github.com/SergioLz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioLz&layout=compact&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioLz&layout=compact&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SergioLz&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SergioLz&theme=tokyonight" />
 </p>
 
 <br />
